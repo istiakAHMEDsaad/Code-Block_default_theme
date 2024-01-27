@@ -21,3 +21,22 @@
 [![cb5.png](https://i.postimg.cc/DzH6ppKr/cb5.png)](https://postimg.cc/rdG5KJss)
 
 6. Then choose default path `C:\Users\{user_name}\AppData\Roaming\CodeBlocks` or where ever you install file.
+
+[![cb6.png](https://i.postimg.cc/qqdL4tqg/cb6.png)](https://postimg.cc/r0QW9wSL)
+
+7. Lastly select all tickmark then select `Transfer` button after that `save` then close
+
+[![cb7.png](https://i.postimg.cc/R0YdbSHp/cb7.png)](https://postimg.cc/xkKLXSgL)
+
+8. Open Code::Block then go to `setting > Editor`.
+
+[![cb8.png](https://i.postimg.cc/j5JXpp6x/cb8.png)](https://postimg.cc/N9BmTPPS)
+
+9. Then go to `Syntax highlighting`.
+
+[![cb9.png](https://i.postimg.cc/8cQHNZwh/cb9.png)](https://postimg.cc/2bGvxFs6)
+
+10. Then choose whatever theme you like 😀
+
+SOURCE FILE: 
+[Post-Img](https://postimages.org/), [source-owner(github)](https://gist.github.com/yzhong52)
